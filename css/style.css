@@ -4,6 +4,9 @@ body {
   color: gray;
   font-weight: 300;
   font-size: 1.1rem; }
+/* Links */
+body a {color:#ff00f2;}
+body a:hover {color:pink}
 
 ::-moz-selection {
   background: #000;
